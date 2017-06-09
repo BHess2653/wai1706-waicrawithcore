@@ -1,0 +1,3 @@
+[submodule "src/reduxcore"]
+	path = src/reduxcore
+	url = https://github.com/BHess2653/reduxcore.git
